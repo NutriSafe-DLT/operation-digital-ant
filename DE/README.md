@@ -1,3 +1,4 @@
+![LOGO](../digitale_ameise_logo_256x183.png)
 # Operation Digitale Ameise
 Potenzielle Innentäter sind Personen mit privilegiertem Zugang zu IT-Komponenten, IT-Diensten, Installationen, Dokumenten oder sonstigen kritischen Informationen und Geräten. Wissen und Zugang machen diese Personen zu einem besonderen Risiko und die Abwehr besonders schwierig.
 
