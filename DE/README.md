@@ -2,13 +2,13 @@
 Potenzielle Innentäter sind Personen mit privilegiertem Zugang zu IT-Komponenten, IT-Diensten, Installationen, Dokumenten oder sonstigen kritischen Informationen und Geräten. Wissen und Zugang machen diese Personen zu einem besonderen Risiko und die Abwehr besonders schwierig.
 
 
-Mit dem Tabletop-Game _Operation Digitale Ameise_ lassen sich mögliche Angriffe durch Innentäter in der Lebensmittelproduktion und -logistik sowie mögliche Gegenmaßnahmen identifizieren. Dabei schlüpfen mehrere Teams in die Rolle von Innentätern und treten in einem Wettkampf gegeneinander an.
+Mit dem Tabletop-Game __Operation Digitale Ameise__ lassen sich mögliche Angriffe durch Innentäter in der Lebensmittelproduktion und -logistik sowie mögliche Gegenmaßnahmen identifizieren. Dabei schlüpfen mehrere Teams in die Rolle von Innentätern und treten in einem Wettkampf gegeneinander an.
 
 
-Das Spiel ist Teil des [NutriSafe Toolkits](https://nutrisafe.de/toolkit).
+Das Spiel ist Teil des [NutriSafe Toolkits](https://nutrisafe.de/toolkit) und wurde von [Manfred Hofmeier](https://www.linkedin.com/in/ma-hofmeier/) am Institut für Schutz und Zuverlässigkeit der Universität der Bundeswehr München entwickelt.
 
 ## Anwendung
-Das Serious Game _Operation Digitale Ameise_ ist ein Tabletop, das sowohl in einer Präsenzveranstaltung als auch virtuell gespielt werden kann. Für eine virtuelle Veranstaltung wird dabei ein Videokonferenz-Tool mit Breakout-Funktion benötigt. Verwenden Sie in solchen Durchführungen das digitale Kartendeck.
+Das Serious Game __Operation Digitale Ameise__ ist ein Tabletop, das sowohl in einer Präsenzveranstaltung als auch virtuell gespielt werden kann. Für eine virtuelle Veranstaltung wird dabei ein Videokonferenz-Tool mit Breakout-Funktion benötigt. Verwenden Sie in solchen Durchführungen das digitale Kartendeck.
 
 
 Bei Fragen oder für Unterstützung bei der Anwendung des Spiels wenden Sie sich bitte an [manfred.hofmeier@unibw.de](mailto:manfred.hofmeier@unibw.de).
