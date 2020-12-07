@@ -4,6 +4,9 @@ Potenzielle Innentäter sind Personen mit privilegiertem Zugang zu IT-Komponente
 
 Mit dem Tabletop-Game Operation Digitale Ameise lassen sich mögliche Angriffe durch Innentäter in der Lebensmittelproduktion und -logistik sowie mögliche Gegenmaßnahmen identifizieren. Dabei schlüpfen mehrere Teams in die Rolle von Innentätern und treten in einem Wettkampf gegeneinander an.
 
+
+Das Spiel ist Teil des [NutriSafe Toolkits](https://nutrisafe.de/toolkit).
+
 ## Anwendung
 
 ## Lizenz
