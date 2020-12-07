@@ -9,6 +9,8 @@ Das Spiel ist Teil des [NutriSafe Toolkits](https://nutrisafe.de/toolkit).
 
 ## Anwendung
 Das Serious Game _Operation Digitale Ameise_ ist ein Tabletop, das sowohl in einer Präsenzveranstaltung als auch virtuell gespielt werden kann. Für eine virtuelle Veranstaltung wird dabei ein Videokonferenz-Tool mit Breakout-Funktion benötigt. Verwenden Sie in solchen Durchführungen das digitale Kartendeck.
+
+
 Bei Fragen oder für Unterstützung bei der Anwendung des Spiels wenden Sie sich bitte an [manfred.hofmeier@unibw.de](mailto:manfred.hofmeier@unibw.de).
 
 ## Lizenz
