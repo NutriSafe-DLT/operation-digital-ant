@@ -20,7 +20,7 @@ For questions or support in using the game, please contact [manfred.hofmeier@uni
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## Support us
-If you would like to support us - the Institute for Protection and Dependability of the Universität der Bundeswehr München - in the research of internal offenders, you can [send](mailto:manfred.hofmeier@unibw.de) us your anonymized game results.
+If you would like to support us - the Institute for Protection and Dependability of the Universität der Bundeswehr München - in our insider threat research, you can [send](mailto:manfred.hofmeier@unibw.de) us your anonymized game results.
 
 ## Acknowledgements
 We thank the German Federal Ministry of Education and Research (BMBF) for the funding of NutriSafe(FKZ: 13N15070) within the civil security reserch programme as well as the Austrian Federal Ministry for Agriculture, Regions and Tourism (BMLRT) for funding NutriSafe within the security research funding programme KIRAS (projectnumber: 867015).
