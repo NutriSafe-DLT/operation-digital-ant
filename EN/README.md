@@ -9,7 +9,7 @@ With the tabletop game __Operation Digital Ant__, possible attacks by insiders i
 The game is part of the [NutriSafe Toolkits](https://nutrisafe.de/toolkit) and is developed by [Manfred Hofmeier](https://www.linkedin.com/in/ma-hofmeier/) at the Institute for Protection and Dependability of the Universität der Bundeswehr München.
 
 ## Use
-The serious game __Operation Digitale Ant__ is a tabletop game, which can be played both in a face-to-face event and virtually. For a virtual event a video conferencing tool with breakout function is required. Use the digital card deck in such events.
+The serious game __Operation Digital Ant__ is a tabletop game, which can be played both in a face-to-face event and virtually. For a virtual event a video conferencing tool with breakout function is required. Use the digital card deck in such events.
 
 
 For questions or support in using the game, please contact [manfred.hofmeier@unibw.de](mailto:manfred.hofmeier@unibw.de).
