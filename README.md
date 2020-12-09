@@ -4,4 +4,4 @@
 * [English: Operation Digital Ant](EN)
 * [German: Operation Digitale Ameise](DE)
 
-#include "EN/README.md"
+
